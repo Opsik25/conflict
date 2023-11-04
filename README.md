@@ -4,3 +4,4 @@
 - I love cats
 - I love cars
 - I have a table
+- I hate dogs
